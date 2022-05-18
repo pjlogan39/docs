@@ -1,4 +1,4 @@
----
+---Patrickjr
 title: Keeping your pull request in sync with the base branch
 intro: 'After you open a pull request, you can update the head branch, which contains your changes, with any changes that have been made in the base branch.'
 permissions: People with write permissions to the repository to which the head branch of the pull request belongs can update the head branch with changes that have been made in the base branch.
